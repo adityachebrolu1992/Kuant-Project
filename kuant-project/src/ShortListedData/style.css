@@ -1,0 +1,20 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+table {
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+#td {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}

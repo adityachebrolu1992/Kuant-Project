@@ -1,0 +1,10 @@
+#header {
+  margin:0 auto;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+body{
+  background-image: linear-gradient(to right,rgba(126, 160, 175, 0.993),rgba(5, 118, 170, 0.993));
+}
